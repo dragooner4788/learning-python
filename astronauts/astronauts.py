@@ -1,7 +1,11 @@
 '''
-Description: using the Open Notify system which we can gather details about the international Space Station
+Description: using the Open Notify system which we can gather details about the international Space Station.
 Why: I am doing this to learn more about APIs and how to use them in Python. 
 Date: 2/9/2021 10:43PM
+
+Please refer to: https://www.dataquest.io/blog/python-api-tutorial/ -- for more information on learning APIs with Python.
+
+Please refer to: http://open-notify.org/ -- for the site used to experiment with APIs.
 '''
 
 
