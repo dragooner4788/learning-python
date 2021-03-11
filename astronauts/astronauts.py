@@ -11,7 +11,7 @@ Please refer to: http://open-notify.org/ -- for the site used to experiment with
 
 import requests
 import json
-
+from datetime import datetime
 
 # Getting information about the astronauts on the ISS right now.
 response = requests.get("http://api.open-notify.org/astros.json")
@@ -42,8 +42,8 @@ jprint(pass_times)
 risetimes = []
 
 for risestime in pass_times:
-    time = risestime['risetime']
+    time = datetime.fromtimestamp(risestime['risetime'])
     risetimes.append(time)
 
 for risetime in risetimes:
-    print(f"Rise Time: {risestime['risetime']}")
+    print(f"Rise Time: {datetime.fromtimestamp(risestime['risetime'])}")
