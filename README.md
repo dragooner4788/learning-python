@@ -1,9 +1,18 @@
 # learning-python
 Learning Python General
 
+This is my main repo for learning Python.
+
 ## What's in this Repo?
 
-This repo holds the Jupyter Notebooks and Python code I have created while learning Python. 
+This repo is mainly for my own purposes while learning Python and programming concepts. But I will also continue to update this repo with coding examples an resources as I move along so others can use this as a resource to get started on their own programming journey.
+
+What will one find in this repo:
+- Python Code Examples
+- Jupyter Notebooks with code snippets and explanations of the code
+- Resources for getting help and diving deeper into Python
+- Course Resources
+- Books I've used and recommend
 
 ## Learning Materials 
 
