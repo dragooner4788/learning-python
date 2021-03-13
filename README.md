@@ -14,6 +14,49 @@ What will one find in this repo:
 - Course Resources
 - Books I've used and recommend
 
+## Index | Content
+
+### Python: Getting Started | python-getting-started.ipynb
+
+This Jupyter notebook contains materials for getting started with Python.
+
+### Python: Primitive Types | python-primitive-types.ipynb
+
+This Jupyter notebook contains material related to **Primitive Data Types**
+
+### Python: Control Flow | python-control-flow.ipynb
+
+This Jupyter Notebook contains materials related to **Control Flow**
+- If-Else Statements
+- Do-While
+- For
+- While
+
+### Python: Defining Functions | python-defining-functions.ipynb
+
+This Jupyter notebook contains material related to **Functions**
+
+### Python: Exceptions | python-exceptions.ipynb
+
+This Jupyter notebook contains materials related to **Exceptions and Error Handling**
+
+### Python: Data Structures | python-data-structures.ipynb
+
+This Jupyter notebook contains materials related to **Data Structures**
+- Lists
+  - Arrays
+- Dictionaries
+- Sets
+- Tuples
+
+### Python: Class | python-class.ipynb
+
+This Jupyter notebook contains materials related to **Classes**
+
+### Codewars | codewars.ipynb
+
+This Jupyter notebook contains content I have completed from [Codewars](http://codewars.com)
+
 ## Learning Materials 
 
 ### Courses
