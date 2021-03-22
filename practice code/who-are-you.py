@@ -12,3 +12,7 @@ profile["first name"] = user_first_name
 profile["last name"] = user_last_name
 
 print(profile)
+
+user_name = list(map(lambda name: name[1], profile))
+
+print(user_name)
