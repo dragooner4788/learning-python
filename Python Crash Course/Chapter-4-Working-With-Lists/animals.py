@@ -1,7 +1,7 @@
 '''
 Name: Guy F.
 Date: 3-17-2021
-Description: Create a list of animals that all have something in commong. Print out a statement about each animal. State what they have in common.
+Description: Create a list of animals that all have something in common. Print out a statement about each animal. State what they have in common.
 '''
 
 animals = ["dog", "cat", "wolf"]
